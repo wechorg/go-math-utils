@@ -1,3 +1,3 @@
-module github.com/wechuli/go-math-utils
+module github.com/wechorg/go-math-utils
 
 go 1.24.2
